@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: 54.238.180.73
   name: Install the apache web service
   become: yes
 
