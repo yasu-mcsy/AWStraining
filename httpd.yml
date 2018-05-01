@@ -1,3 +1,4 @@
+---
 - hosts: localhost
   name: Install the apache web service
   become: yes
